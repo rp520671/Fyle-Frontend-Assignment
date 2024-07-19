@@ -47,7 +47,7 @@ Health Challenge Tracker is a web application for tracking and exploring workout
 3. Run the project
 
 ```bash
-   npm start
+   ng serve
 ```
 
 4. You can access the project at http://localhost:4200
